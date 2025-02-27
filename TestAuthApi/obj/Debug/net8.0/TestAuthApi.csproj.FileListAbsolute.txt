@@ -34,3 +34,4 @@ C:\Users\usr\source\repos\TestAuthApi\TestAuthApi\obj\Debug\net8.0\refint\TestAu
 C:\Users\usr\source\repos\TestAuthApi\TestAuthApi\obj\Debug\net8.0\TestAuthApi.pdb
 C:\Users\usr\source\repos\TestAuthApi\TestAuthApi\obj\Debug\net8.0\TestAuthApi.genruntimeconfig.cache
 C:\Users\usr\source\repos\TestAuthApi\TestAuthApi\obj\Debug\net8.0\ref\TestAuthApi.dll
+c:\Users\usr\source\repos\TestAuthApi\TestAuthApi\obj\Debug\net8.0\TestAuthApi.sourcelink.json

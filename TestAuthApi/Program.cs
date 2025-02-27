@@ -52,6 +52,12 @@ builder.Services.AddAuthorization(options =>
         policy.RequireAuthenticatedUser();
     });
 
+    options.AddPolicy("NegotiateWithGroupRequired", policy =>
+    {
+        policy.AuthenticationSchemes = new[] { NegotiateDefaults.AuthenticationScheme };
+        policy.RequireAuthenticatedUser();
+        policy.RequireClaim("http://schemas.microsoft.com/ws/2008/06/identity/claims/groupsid", "MyGroup");
+    });
 
     options.AddPolicy("NegotiateRequired", policy =>
     {
@@ -70,13 +76,11 @@ app.UseHttpsRedirection();
 app.UseAuthentication();
 app.UseAuthorization();
 
-
-
 app.MapGet("/w", (HttpContext context) =>
 {
     return context.User.Identity?.Name ?? "No username found";
 })
-.RequireAuthorization("NegotiateRequired");
+.RequireAuthorization("NegotiateWithGroupRequired");
 
 app.MapGet("/c", (HttpContext context) =>
 {
