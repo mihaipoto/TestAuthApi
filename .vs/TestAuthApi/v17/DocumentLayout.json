@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\usr\\source\\repos\\TestAuthApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{261D27E0-0554-4818-A4E7-1E034B7C9738}|TestAuthApi\\TestAuthApi.csproj|c:\\users\\usr\\source\\repos\\testauthapi\\testauthapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{261D27E0-0554-4818-A4E7-1E034B7C9738}|TestAuthApi\\TestAuthApi.csproj|solutionrelative:testauthapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{261D27E0-0554-4818-A4E7-1E034B7C9738}|TestAuthApi\\TestAuthApi.csproj|c:\\users\\usr\\source\\repos\\testauthapi\\testauthapi\\testauthapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{261D27E0-0554-4818-A4E7-1E034B7C9738}|TestAuthApi\\TestAuthApi.csproj|solutionrelative:testauthapi\\testauthapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 799,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\TestAuthApi\\TestAuthApi\\Program.cs",
+              "RelativeDocumentMoniker": "TestAuthApi\\Program.cs",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\TestAuthApi\\TestAuthApi\\Program.cs",
+              "RelativeToolTip": "TestAuthApi\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAARwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T15:56:34.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestAuthApi.http",
+              "DocumentMoniker": "C:\\Users\\usr\\source\\repos\\TestAuthApi\\TestAuthApi\\TestAuthApi.http",
+              "RelativeDocumentMoniker": "TestAuthApi\\TestAuthApi.http",
+              "ToolTip": "C:\\Users\\usr\\source\\repos\\TestAuthApi\\TestAuthApi\\TestAuthApi.http",
+              "RelativeToolTip": "TestAuthApi\\TestAuthApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-27T15:56:29.251Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

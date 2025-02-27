@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "cop+NcBIpcY=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\usr\\source\\repos\\TestAuthApi\\TestAuthApi\\TestAuthApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.aspnetcore.authentication.certificate\\8.0.0\\microsoft.aspnetcore.authentication.certificate.8.0.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.aspnetcore.authentication.negotiate\\8.0.0\\microsoft.aspnetcore.authentication.negotiate.8.0.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\8.0.0\\microsoft.aspnetcore.connections.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.extensions.features\\8.0.0\\microsoft.extensions.features.8.0.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\system.directoryservices.protocols\\8.0.0\\system.directoryservices.protocols.8.0.0.nupkg.sha512",
+    "C:\\Users\\usr\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
